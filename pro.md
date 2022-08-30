@@ -1,6 +1,7 @@
 ---
 label: System Requirements
 icon: device-desktop
+order: 2000
 ---
 ![](/static/headers/pro.png)
 
