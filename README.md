@@ -8,6 +8,7 @@ icon: home
 
 ![](static/kavach-readme-laptops.png)
 
+
 ## Our Mission
 
 As technology advances, it opens a new world to everyone especially young minds but it also increases the risk of being exposed to new threats. We offer a secure operating system for everyone to stay safe in this advance tech driven world.
@@ -21,6 +22,8 @@ You can install **Kavach OS** in 2 different modes.
 - As a day to day OS
 - As a virtual machine to try it out and get used to the environment
 
+---
+
 ## Features
 
 #### :icon-light-bulb: Light & Comaptible 
@@ -30,7 +33,7 @@ This robust operating system can be utilized in a domain under minimal availabil
 - Capability of running under 2GB RAM.
 - Compact size of the ISO file takes only up to 2.5 GB space."
 
-#### :icon-package: Customized Chromium with plugins like AD Blocker (Will eventually shift to our very own browser)
+#### :icon-package: Customized Chromium with plugins like AD Blocker
 
 A customized and a much more secured version of chrome is shipped with the OS called Chromium. Comes without the primal software of the initial chrome. To expand the user’s efficiency and privacy certain plugins are added (UBlock, Origin, etc.).
 
@@ -53,7 +56,7 @@ Libre Office based on ICSE and ISC Curriculum
 
 ## Support
 
-Technical support questions are to be mailed asked in the [Dr. Ken Lunde](mailto:technical@kavach.org.in). The mails are monitored constantly and we will do our best to assist you.
+Technical support questions are to be mailed asked to the [Technical Team](mailto:technical@kavach.org.in). The mails are monitored constantly and we will do our best to assist you.
 
 If you find a bug or would like to submit a feature request, please create an [Issue](https://github.com/Project-K-Official/kavach-iso/issues) and we will try to look at it right away.
 
