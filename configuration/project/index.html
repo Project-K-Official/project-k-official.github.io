@@ -5,7 +5,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.715174149050">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.715174167138">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -34,12 +34,12 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=2.4.0.715174149050" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=2.4.0.715174167138" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.715174149050" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.715174167138" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.715174149050" data-turbo-eval="false" defer></script>
-    <script id="prism-js" type="text/javascript" src="../../resources/js/prism.js?v=2.4.0.715174149050" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.715174167138" data-turbo-eval="false" defer></script>
+    <script id="prism-js" type="text/javascript" src="../../resources/js/prism.js?v=2.4.0.715174167138" defer></script>
 
     <!-- Add content to _includes/head.html to include here -->
 </head>
@@ -1459,7 +1459,7 @@ host: docs.example.com/js/plausible.js</code></pre>
 <pre class="language-yaml"><code v-pre class="language-yaml">server:
   host: 127.0.0.1:5005</code></pre>
 </doc-codeblock></div>
-<p>A custom <code v-pre>--host</code> value can also be passed as an argument to the <a href="../../guides/cli/#options"><code v-pre>retype watch</code></a> and <a href="../../guides/cli/#options-3"><code v-pre>retype run</code></a> commands. If included, the <code v-pre>--host</code> value will override the <code v-pre>host</code> set within your <code v-pre>retype.yml</code> project configuration file.</p>
+<p>A custom <code v-pre>--host</code> value can also be passed as an argument to the <a href="/guides/cli.md#options"><code v-pre>retype watch</code></a> and <a href="/guides/cli.md#options-3"><code v-pre>retype run</code></a> commands. If included, the <code v-pre>--host</code> value will override the <code v-pre>host</code> set within your <code v-pre>retype.yml</code> project configuration file.</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">retype watch --host 127.0.0.1              # serve from a custom host
 retype watch --host 127.0.0.1 --port 5005  # serve from a custom host and port</code></pre>
@@ -1497,7 +1497,7 @@ retype watch --host 127.0.0.1 --port 5005  # serve from a custom host and port</
         </div>
     </div>
 </div>
-<p>A custom <code v-pre>--port</code> value can also be passed as an argument to the <a href="../../guides/cli/#options"><code v-pre>retype watch</code></a> and <a href="../../guides/cli/#options-3"><code v-pre>retype run</code></a> commands. If included, the <code v-pre>--port</code> value will override the <code v-pre>port</code> set within your <code v-pre>retype.yml</code> project configuration file.</p>
+<p>A custom <code v-pre>--port</code> value can also be passed as an argument to the <a href="/guides/cli.md#options"><code v-pre>retype watch</code></a> and <a href="/guides/cli.md#options-3"><code v-pre>retype run</code></a> commands. If included, the <code v-pre>--port</code> value will override the <code v-pre>port</code> set within your <code v-pre>retype.yml</code> project configuration file.</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">retype watch --port 5005  # serve from a custom port</code></pre>
 </doc-codeblock></div>
@@ -1508,7 +1508,7 @@ retype watch --host 127.0.0.1 --port 5005  # serve from a custom host and port</
         <span>watch</span>
     </h3>
 </doc-anchor-target>
-<p>Custom configuration for the <a href="../../guides/cli/#options"><code v-pre>retype watch</code></a> command.</p>
+<p>Custom configuration for the <a href="/guides/cli.md#options"><code v-pre>retype watch</code></a> command.</p>
 <doc-anchor-target id="watchmode">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#watchmode">#</doc-anchor-trigger>
@@ -1546,7 +1546,7 @@ retype watch --host 127.0.0.1 --port 5005  # serve from a custom host and port</
   watch:
     mode: disk</code></pre>
 </doc-codeblock></div>
-<p>The command <a href="../../guides/cli/#retype-build"><code v-pre>retype build</code></a> will always build and write all files to disk. The <code v-pre>memory</code> configuration is not an option with <code v-pre>retype build</code>. The Retype <a href="../../guides/github-actions/">GitHub Action</a> uses <code v-pre>retype build</code>. The command <code v-pre>retype watch</code> is only to be used during local development.</p>
+<p>The command <a href="/guides/cli.md#retype-build"><code v-pre>retype build</code></a> will always build and write all files to disk. The <code v-pre>memory</code> configuration is not an option with <code v-pre>retype build</code>. The Retype <a href="../../guides/github-actions/">GitHub Action</a> uses <code v-pre>retype build</code>. The command <code v-pre>retype watch</code> is only to be used during local development.</p>
 </doc-panel>
 <doc-anchor-target id="watchpolling">
     <h3>
