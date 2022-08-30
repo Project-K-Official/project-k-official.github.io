@@ -2,61 +2,21 @@
 icon: question
 label: FAQ
 ---
-![](/static/headers/faq.png)
 
 # Frequently Asked Questions
 
-## Is Retype free to use?
+## Is KavachOS free to use?
 
-Yes, but with limitations.
+Yes, KavachOS is free. Kavach will be free forever.
 
-There are two limitations:
+## How do I install Kavach?
 
-1. Maximum of 100 pages can be built
-2. The [`Powered by Retype`](/configuration/project.md#poweredbyretype) branding cannot be removed
+Installing KavachOS is very easy and simple. [Please click here](guides/installing-kavach.md) 
 
-It is possible to remove both those limitations with [Retype Pro](/pro.md).
+## How do I contact The Kavach Team ?
 
-## Can I get a trial license key?
+You can contact us by [mailing us](mailto:mail@kavach.org.in). We will surely respond as soon as possible.
 
-{{ include "snippets/faq-trial-key-request" }}
+## Where can I report bugs ?
 
-## How do I install Retype?
-
-Installing Retype is super simple and takes only a few seconds. Please see our [Getting Started](/guides/getting-started.md) guide for detailed installation instructions.
-
-If you ain't got no time for that, just run the following two commands on a folder that contains at least one `.md` file, depending on your preferred [package manager](/guides/getting-started.md#prerequisites).
-
-+++ npm
-```
-npm install retypeapp --global
-retype watch
-```
-+++ yarn
-```
-yarn global add retypeapp
-retype watch
-```
-+++ dotnet
-```
-dotnet tool install retypeapp --global
-retype watch
-```
-+++
-
-## What is page metadata?
-
-The page metadata is an optional block of [configuration](/configuration/page.md) that can be placed at the top of any Markdown `.md` page. This block of configuration can also be referred to as the page [Front Matter](https://jekyllrb.com/docs/front-matter/).
-
-The block of page metadata must be the first item at the top of the `.md` page and must be added between `---` lines above and below the configs.
-
-```md sample.md
----
-icon: rocket
----
-# Your page title here
-```
-
-The page metadata is completely optional and typically only required when you want to override the Retype defaults.
-
-You can also add page metadata into a separate `.yml` file, see [page config](/configuration/page.md#separate-yml-file) options.
+You can either open an issue [here](https://github.com/Project-K-Official/kavach-iso/issues) or you can fill this [Form](https://forms.gle/if3mRBubdK9LqUaW6)
