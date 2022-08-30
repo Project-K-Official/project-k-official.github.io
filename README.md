@@ -2,93 +2,61 @@
 label: Welcome
 icon: home
 ---
-# Welcome to Retype
+# Welcome to Kavach OS
 
-[Retype](https://retype.com/) is an :sparkles: ultra-high-performance :sparkles: generator that builds a website based on simple text files. Focus on your writing while Retype builds the rest.
+**[Kavach OS](https://kavach.org.in)** is an **Ezarch Linux** based free, safe, and open source operating system for kids that allows you to tuck your kids into the world of technology in the same way you tuck them into their beds to keep them warm and comfortable. In your absence, Kavach OS will operate as a guardian for your children, ensuring their safety, comfort, accessibility, and exploration opportunities.
 
-![](static/retype-hero.png)
+![](static/kavach-readme-laptops.png)
 
-No coding is required and just one Markdown file, such as a [`README.md`](https://www.makeareadme.com/), will get you started.
+## Our Mission
 
-The [retype.com](https://retype.com/) website was generated using Retype. View the [source](https://github.com/retypeapp/retype/blob/main/README.md) used to generate this very page.
-
-A new Retype powered website can be up and running within seconds once Retype is installed, which itself takes only a few seconds. :+1:
+As technology advances, it opens a new world to everyone especially young minds but it also increases the risk of being exposed to new threats. We offer a secure operating system for everyone to stay safe in this advance tech driven world.
 
 ---
 
 ## Quick start
 
-You can install Retype using `npm`, `yarn`, or the `dotnet` CLI.
+You can install **Kavach OS** in 2 different modes. 
 
-From your command line, navigate to a folder location where you have one or more Markdown `.md` files, such as a GitHub project.
-
-Next, choose one of the following tools to first install `retypeapp` and then start Retype by using the `retype watch` [command](/guides/cli.md#retype-watch):
-
-+++ NPM
-```
-npm install retypeapp --global
-retype watch
-```
-+++ Yarn
-```
-yarn global add retypeapp
-retype watch
-```
-+++ dotnet
-```
-dotnet tool install retypeapp --global
-retype watch
-```
-+++
-
-That's it! Your new Retype website should be up and running.
-
-!!!
-You will require either [npm](https://www.npmjs.com/get-npm), [Yarn](https://classic.yarnpkg.com/en/docs/install/), or the [dotnet](https://dotnet.microsoft.com/download/dotnet-core) CLI to be installed before installing Retype. Only one of those three is required, although all three could be installed on your machine too. It's up to you. :raised_hands:
-
-All operating systems are supported, including Mac, Windows, and Linux.
-!!!
-
----
+- As a day to day OS
+- As a virtual machine to try it out and get used to the environment
 
 ## Features
 
-#### :icon-shield-check: It just works
+#### :icon-light-bulb: Light & Comaptible 
 
-Retype has been built to be easy to use and should _"just work"_ out-of-the-box without any special configuration or troublesome setup.
+This robust operating system can be utilized in a domain under minimal availability of resources like:
+- Comparatively low CPU speed.
+- Capability of running under 2GB RAM.
+- Compact size of the ISO file takes only up to 2.5 GB space."
 
-#### :icon-zap: Lightning fast
+#### :icon-package: Customized Chromium with plugins like AD Blocker (Will eventually shift to our very own browser)
 
-Don't blink. Retype was built for speed.
+A customized and a much more secured version of chrome is shipped with the OS called Chromium. Comes without the primal software of the initial chrome. To expand the user’s efficiency and privacy certain plugins are added (UBlock, Origin, etc.).
 
-#### :icon-gear: Easy install
+#### :icon-shield-check: Anti Cyber Bullying App
 
-[Installation](/guides/getting-started.md) takes only a few seconds. Then all you need is one Markdown `.md` file which Retype will start building a new website from.
+A very distinctive feature of Kavach OS is a useful application for individuals report complaints related to Cyber Bullying while staying anonymous, complaint is forwarded to respective concerned authorities.
 
-#### :icon-plug: Powerful
+####
 
-Project level [configuration](/configuration/project.md) using `retype.yml` unlocks many more Retype features and customization.
-
-#### :icon-pencil: Simple formatting
-
-Pages are [formatted](/guides/formatting.md) using Markdown syntax and Retype [components](/components/readme.md). Page level [configuration](/configuration/page.md) is available, such as setting a custom navigation [`label`](/configuration/page.md#label) or [`icon`](/configuration/page.md#icon).
-
-#### :icon-sync: Live reload
-
-If a change is detected, such as editing and saving an `.md` file, your Retype website will be updated almost instantly within the browser.
-
-#### :icon-server: Host anywhere
-
-Retype generates a basic HTML website that you can host on any web hosting service, or for free using [GitHub Pages](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site). No special server-side software or external dependencies are required. You can host your Retype site as a public website or as a private website inside your organization.
+1,57,000+ websites blocked by default 
+Regular Security Updates 
+Firewall Settings using KDE Settings
+System monitoring using KDE Connect
+Signal Messaging App present by default
+Accessibility Features
+Encryption Vaults for storing any sensitive information
+Libre Office based on ICSE and ISC Curriculum
 
 ---
 
 ## Support
 
-Technical support questions are best asked in the [Discussions](https://github.com/retypeapp/retype/discussions). The discussions are monitored 24 hours a day and we will do our best to assist.
+Technical support questions are to be mailed asked in the [Dr. Ken Lunde](mailto:technical@kavach.org.in). The mails are monitored constantly and we will do our best to assist you.
 
-If you find a defect or would like to submit a feature request, please create an [Issue](https://github.com/retypeapp/retype/issues) and we will investigate right away.
+If you find a bug or would like to submit a feature request, please create an [Issue](https://github.com/Project-K-Official/kavach-iso/issues) and we will try to look at it right away.
 
-Do you have a general inquiry? Please feel free to contact us at hello@retype.com.
+Do you have a general inquiry? Please feel free to contact us at mail@kavach.org.in.
 
-We :heart: feedback.
+Thank you for visiting **Kavach OS**.
