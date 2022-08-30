@@ -2,8 +2,8 @@ input: .
 output: .retype
 url: project-k-official.github.io
 branding:
-  title: Kavach OS
-  label: Documentation
+  title: KavachOS
+  label: Docs
 links:
 - text: Getting Started
   link: https://retype.com/guides/getting-started/
