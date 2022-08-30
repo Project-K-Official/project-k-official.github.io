@@ -53,6 +53,14 @@ Encryption Vaults for storing any sensitive information
 Libre Office based on ICSE and ISC Curriculum
 
 ---
+## Download 
+
+You can download KavachOS in two variants
+
+[!button variant="primary" text="ISO"]       [!button variant="primary" text="Virtual Machine"]
+
+
+---
 
 ## Support
 
