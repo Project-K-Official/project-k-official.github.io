@@ -3,7 +3,7 @@ output: .retype
 url: project-k-official.github.io
 branding:
   title: KavachOS
-  label: Docs
+  label: Wiki
 links:
 
 - text: Getting Started
