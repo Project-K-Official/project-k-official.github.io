@@ -4,7 +4,7 @@ icon: home
 ---
 # Welcome to Kavach OS
 
-**[Kavach OS](https://kavach.org.in)** is an **Ezarch Linux** based free, safe, and open source operating system for your kids and yourself that allows you to stay safe in the world of technology without compromising on our daily requirements. Kavach OS will operate to ensure your safety, comfort, accessibility, and exploration opportunities without exposing you to the threats of the digital world. 
+**[Kavach OS](https://kavach.org.in)** is an **Ezarch Linux** based free, safe, and open source operating system for your kids and yourself that allows you to stay safe in the world of technology without compromising on our daily requirements. Kavach OS will operate to ensure your safety, comfort, accessibility, and exploration opportunities. We offer a secure operating system for everyone in this digital world.
 
 ![](static/kavach-readme-laptops.png)
 
@@ -60,7 +60,7 @@ We have included **Signal Desktop** Application which is a privacy centric chat 
 ---
 ## Download 
 
-You can download KavachOS in two variants
+You can download Kavach OS in two variants
 
 [!button variant="primary" text="ISO"](https://drive.google.com/file/d/1CcFfZ6INT61NCqI7KK9wwnVdTOj2X_6-/view?usp=sharing)
 
