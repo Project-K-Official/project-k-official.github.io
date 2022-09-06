@@ -3,5 +3,6 @@ icon: versions
 ---
 
 # Timeline
+## v0.0.1
 
-This is the timeline of **KavachOS**
+To be Released: 15-09-2022
