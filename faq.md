@@ -7,7 +7,7 @@ label: FAQ
 
 ## Is Kavach OS free to use?
 
-Yes, KavachOS is free. Kavach will be free forever.
+Yes, Kavach OS is free. Kavach will be free forever.
 
 ## How do I install Kavach OS?
 
