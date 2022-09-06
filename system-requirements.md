@@ -4,7 +4,7 @@ icon: device-desktop
 order: 2000
 ---
 
-# KavachOS
+# Kavach OS
 
 ## System Requirements
 
