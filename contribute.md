@@ -27,8 +27,4 @@ Documentation also plays an important role in maintaining this project. You can,
 
 ---
 
-## Contributing as a Forum Member
-
-A lot of requests and help messages might come to us on a daily basis. We would also be happy if you help others in clearing their queries as this takes off some workload from our team members.
-
 Thank you for helping us out :heart:
