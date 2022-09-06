@@ -5,15 +5,15 @@ label: FAQ
 
 # Frequently Asked Questions
 
-## Is KavachOS free to use?
+## Is Kavach OS free to use?
 
 Yes, KavachOS is free. Kavach will be free forever.
 
-## How do I install Kavach?
+## How do I install Kavach OS?
 
-Installing KavachOS is very easy and simple. [Please click here](guides/installing-kavach.md) 
+Installing Kavach OS is very easy and simple. [Please click here](guides/installing-kavach.md) 
 
-## How do I contact The Kavach Team ?
+## How do I contact The Kavach OS Team ?
 
 You can contact us by [mailing us](mailto:mail@kavach.org.in). We will surely respond as soon as possible.
 
