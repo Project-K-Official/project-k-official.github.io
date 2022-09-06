@@ -3,9 +3,9 @@ order: 100
 icon: rocket
 ---
 
-# Installing KavachOS 
+# Installing Kavach OS 
 
-Installing KavachOS is quite easy. Please choose the way you would like to install the OS and we will guide you with a video
+Installing Kavach OS is quite easy. Please choose the way you would like to install the OS and we will guide you with a video
 
 ==- As a daily driver
 [!embed](https://www.youtube.com/watch?v=Dzdg-0vldW4)
