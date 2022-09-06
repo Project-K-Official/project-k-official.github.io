@@ -55,7 +55,7 @@ We have included **Signal Desktop** Application which is a privacy centric chat 
 
 #### :icon-thumbsup: Regular Security Updates
 
-**KavachOS** is in it's initial stages. We update it very regularly and we make sure that we have the best digital security but also making sure that we do not compromise on user accessibility and comfortability.
+**Kavach OS** is in it's initial stages. We update it very regularly and we make sure that we have the best digital security but also making sure that we do not compromise on user accessibility and comfortability.
 
 ---
 ## Download 
