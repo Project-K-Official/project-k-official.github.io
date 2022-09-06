@@ -25,6 +25,6 @@ We will take a look at your pull request as soon as possible.
 
 Documentation also plays an important role in maintaining this project. You can, too, contribute to this project's documentation and help us in making sure that all the necessary articles and blogs are maintained properly and are up to date.
 
----
+
 
 Thank you for helping us out :heart:
