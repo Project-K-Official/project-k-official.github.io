@@ -62,7 +62,7 @@ We have included **Signal Desktop** Application which is a privacy centric chat 
 
 You can download Kavach OS in two variants
 
-[!button variant="primary" text="ISO"](https://drive.google.com/file/d/1CcFfZ6INT61NCqI7KK9wwnVdTOj2X_6-/view?usp=sharing)
+[!button variant="primary" text="ISO"](https://drive.google.com/file/d/1BCe1Bp9xPqtENO_rANVJYfAT5Kx0AJ0y/view?usp=sharing)
 
 
 ---
